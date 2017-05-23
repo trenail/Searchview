@@ -1,7 +1,7 @@
 # Searchview
 ### 效果图
-
---
+<iframe height=600 width=800 src="demo.gif">
+---
 ### 使用方法
 XML中直接引用
 
