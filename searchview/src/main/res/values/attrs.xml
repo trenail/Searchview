@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="search_view">
+        <attr name="search_icon_width" format="dimension" />
+        <attr name="search_icon_height" format="dimension" />
+        <attr name="hint_text_color" format="color"/>
+        <attr name="hint_text_size" format="dimension"/>
+        <attr name="delete_icon_width" format="dimension"/>
+        <attr name="delete_icon_height" format="dimension"/>
+        <attr name="hint_text" format="string|reference"/>
+        <attr name="search_icon" format="reference"/>
+        <attr name="delete_icon" format="reference"/>
+    </declare-styleable>
+</resources>
